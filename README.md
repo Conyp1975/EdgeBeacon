@@ -1,6 +1,6 @@
 
 <div align="center" style="font-family: ui-sans-serif, system-ui, Segoe UI; color:#e5e7eb; background:#0b1220; padding:28px 18px; border-radius:16px;">
-  <h1 style="margin:0 0 6px; font-size:36px;">🟢 EdgeBeacon</h1>
+  <h1 style="margin:0 0 6px; font-size:36px;">EdgeBeacon</h1>
   <p style="margin:0 0 16px; font-size:16px; opacity:.9;">
     Tiny Windows batch utility that pings a URL in a fast loop and launches <b>Microsoft Edge</b> the moment the site is UP (HTTP <code>200</code> or any <code>3xx</code>).
   </p>
@@ -11,9 +11,12 @@
   <img alt="Browser" src="https://img.shields.io/badge/Browser-Microsoft%20Edge-0078D7?logo=microsoftedge&logoColor=white" />
 </div>
 
-<!-- Docs badge: place this right AFTER the top hero block -->
+<!-- Badges row: place this RIGHT AFTER the hero block -->
 <p align="center" style="margin:10px 0 0;">
-  <a href="docs/EdgeBeacon - A Minimal Windows Batch Utility for Instant.pdf">
+  <a href="../../releases">
+    <img alt="Release" src="https://img.shields.io/github/v/release/the-sudipta/EdgeBeacon?label=Release">
+  </a>
+  <a href="docs/EdgeBeacon%20-%20A%20Minimal%20Windows%20Batch%20Utility%20for%20Instant.pdf">
     <img alt="Docs (PDF)" src="https://img.shields.io/badge/Docs-PDF-2563EB?logo=readthedocs&logoColor=white">
   </a>
   <a href="#-background--why-this-tool-exists">
@@ -23,6 +26,7 @@
     <img alt="Quick Start" src="https://img.shields.io/badge/Quick%20Start-22C55E">
   </a>
 </p>
+
 
 ## 📄 Documentation
 
@@ -39,7 +43,6 @@
 - **LaTeX source (ZIP):** [docs/Documentation Maker.zip](docs/Documentation%20Maker.zip)
 - **How to cite:** [`CITATION.cff`](CITATION.cff)
 - **Latest release:** [`Releases`](../../releases)
-
 
 
 <!-- =========================
@@ -103,11 +106,18 @@
   </ul>
 </div>
 
+## ⬇️ Latest Release Downloads
+
+- **Tech note (PDF):** [download](../../releases/latest/download/EdgeBeacon-TechNote.pdf)
+- **Windows EXE:** [download](../../releases/latest/download/EdgeBeacon.exe)
+- **Checksums:** [SHA256SUMS.txt](../../releases/latest/download/SHA256SUMS.txt)
+
+
 <div class="blk card">
   <h2>📊 <span class="step">Quick Start</span></h2>
   <ol>
     <li>Download <kbd>scripts/WaitUntilUp_Visible.bat</kbd> from the latest Release</li>
-    <li>Double-click → paste your URL (e.g., <code>https://pmscs-sis.juniv.edu/</code>)</li>
+    <li>Double-click → paste your URL (e.g., <code>http://pmscs-sis.juniv.edu/</code>)</li>
     <li>Watch status lines (<code>000</code> while down). When UP, Edge opens automatically</li>
   </ol>
 </div>
