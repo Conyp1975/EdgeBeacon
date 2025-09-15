@@ -59,7 +59,7 @@
 </div>
 
 <div class="blk card">
-  <h2>🚀 What EdgeBeacon does (in simple words)</h2>
+  <h2>🚀 What EdgeBeacon does</h2>
   <p class="lead" style="margin:.25rem 0 .75rem; font-size:16px; opacity:.9">
     Paste the portal URL once. EdgeBeacon checks it every <b>~100 ms</b>. The moment it’s
     <span class="ok">UP (HTTP 200 or any 3xx)</span>, it <b>automatically opens Microsoft Edge</b> to that page.
