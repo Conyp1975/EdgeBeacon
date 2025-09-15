@@ -1,3 +1,4 @@
+
 <div align="center" style="font-family: ui-sans-serif, system-ui, Segoe UI; color:#e5e7eb; background:#0b1220; padding:28px 18px; border-radius:16px;">
   <h1 style="margin:0 0 6px; font-size:36px;">🟢 EdgeBeacon</h1>
   <p style="margin:0 0 16px; font-size:16px; opacity:.9;">
@@ -23,20 +24,6 @@
   </a>
 </p>
 
-
-<style>
-  .blk{background:#0b1220;color:#e5e7eb;font-family:ui-sans-serif, system-ui, Segoe UI}
-  .card{background:#0f172a;border:1px solid #1f2937;border-radius:14px;padding:18px 18px;margin:14px 0}
-  h2{margin:.2rem 0 .6rem;font-size:22px}
-  code,pre{font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
-  .step{color:#FB923C}      /* Orange — Step 📊 */
-  .result{color:#38BDF8}    /* Blue — Results 🎯 */
-  .decision{color:#F472B6}  /* Pink — Decision ⚡ */
-  .ok{color:#22C55E}        /* Green — success */
-  .warn{color:#FACC15}      /* Yellow — parameters */
-  .err{color:#F87171}       /* Red — warnings */
-  .pill{display:inline-block;padding:3px 8px;border-radius:999px;background:#0b1220;border:1px solid #334155;font-size:12px;margin-right:6px}
-</style>
 
 <!-- =========================
       Background & Motivation
