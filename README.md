@@ -24,6 +24,23 @@
   </a>
 </p>
 
+## 📄 Documentation
+
+<p align="center">
+  <a href="docs/EdgeBeacon%20-%20A%20Minimal%20Windows%20Batch%20Utility%20for%20Instant.pdf">
+    <img alt="Open Tech Note (PDF)" src="https://img.shields.io/badge/Open%20Tech%20Note-PDF-2563EB?logo=readthedocs&logoColor=white" />
+  </a>
+  <br/>
+  <sub>2–3 pages · v1.0.0 · reproducible LaTeX</sub>
+</p>
+
+- **Tech note (PDF):**  
+  [`docs/EdgeBeacon - A Minimal Windows Batch Utility for Instant.pdf`](docs/EdgeBeacon%20-%20A%20Minimal%20Windows%20Batch%20Utility%20for%20Instant.pdf)
+- **LaTeX source (ZIP):** [docs/Documentation Maker.zip](docs/Documentation%20Maker.zip)
+- **How to cite:** [`CITATION.cff`](CITATION.cff)
+- **Latest release:** [`Releases`](../../releases)
+
+
 
 <!-- =========================
       Background & Motivation
