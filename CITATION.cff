@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "EdgeBeacon: Wait Until Site Is UP (Windows Batch)"
+message: "If you use EdgeBeacon, please cite this software."
+type: software
+authors:
+  - family-names: "Das"
+    given-names: "Sudipta Kumar"
+repository-code: "https://github.com/the-sudipta/edgebeacon"
+version: "1.0.0"
+date-released: "2025-09-16"
+license: "MIT"
